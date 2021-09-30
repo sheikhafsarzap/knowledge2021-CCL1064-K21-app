@@ -92,7 +92,7 @@
     <sys_hub_action_instance action="delete_multiple" query="flow=ad2ba8fc652724107f44161e407c0b21^sys_idNOT IN12db64b0656724107f44161e407c0bb1"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Create Issue">79c251dac3633300d4fbb4ad81d3ae6c</action_type>
+        <action_type display_value="">79c251dac3633300d4fbb4ad81d3ae6c</action_type>
         <action_type_parent/>
         <comment/>
         <compiled_snapshot/>
@@ -123,7 +123,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-13 14:07:32</sys_updated_on>
         <value>Test</value>
-        <variable display_value="Title">bdc251dac3633300d4fbb4ad81d3ae79</variable>
+        <variable display_value="">bdc251dac3633300d4fbb4ad81d3ae79</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -137,7 +137,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-13 14:16:22</sys_updated_on>
         <value>your_GitHub_repo_that_can_have_issues</value>
-        <variable display_value="Repository">39c251dac3633300d4fbb4ad81d3ae75</variable>
+        <variable display_value="">39c251dac3633300d4fbb4ad81d3ae75</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -151,7 +151,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-13 14:07:32</sys_updated_on>
         <value>body=This is a test from workshop knowledge2021-CCL1064-K21-app.</value>
-        <variable display_value="Fields">b9c251dac3633300d4fbb4ad81d3ae87</variable>
+        <variable display_value="">b9c251dac3633300d4fbb4ad81d3ae87</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -165,6 +165,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-13 14:16:22</sys_updated_on>
         <value>your_GitHub_account</value>
-        <variable display_value="Owner">f9c251dac3633300d4fbb4ad81d3ae70</variable>
+        <variable display_value="">f9c251dac3633300d4fbb4ad81d3ae70</variable>
     </sys_variable_value>
 </record_update>
